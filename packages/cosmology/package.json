@@ -74,7 +74,7 @@
     "regenerator-runtime": "^0.13.2"
   },
   "dependencies": {
-    "@babel/runtime": "^7.18.3",
+    "@babel/runtime": "^7.26.10",
     "@cosmology/cli": "^0.5.23",
     "@cosmology/core": "^0.5.22"
   }
